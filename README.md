@@ -1,1 +1,1 @@
-# CryptoMarketAnalyzer
+# CoinEagle
